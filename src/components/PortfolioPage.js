@@ -10,7 +10,6 @@ const PortfolioPage = () => (
     <br>
     <br>
     <h3>Check my advanced version</h3>
-    <a href="https://ahmedsamir.dev/">[My portfolio]</a>
   </div>
 );
 
