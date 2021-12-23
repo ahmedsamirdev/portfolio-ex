@@ -2,7 +2,7 @@
 
 A simple example of portfolio app using react router to help you stand out.
 
-### Description
+### Tech stack
 
 - HTML
 - CSS
