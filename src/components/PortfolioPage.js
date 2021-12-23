@@ -10,7 +10,7 @@ const PortfolioPage = () => (
      <br>
     <br>
         <h3>Check my advanced version
-          <Link to="https://ahmedsamir.dev/">[My portfolio]</Link>
+          <a href="https://ahmedsamir.dev/">[My portfolio]</a>
           </h3>
   </div>
 );
