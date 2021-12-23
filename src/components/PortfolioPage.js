@@ -9,7 +9,7 @@ const PortfolioPage = () => (
     <Link to="/portfolio/2">Item Two</Link>
 
     <h3>Check my advanced version</h3>
-    <a href="https://ahmedsamir.dev/" target=”_blank”>[My portfolio]</a>
+    <a href="https://ahmedsamir.dev/" target="_blank">[My portfolio]</a>
   </div>
 );
 
